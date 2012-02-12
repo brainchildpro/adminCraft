@@ -7,11 +7,11 @@
 <meta name="description" content="" /> <!---TODO: Add desctiption --->
 <meta name="keywords" content="" /> <!---TODO: Add keywords if needed --->
 <title>iDig Server Manager</title> <!-- TODO: Replace with PHP to grab info from config file/database --->
-
+<!---
 <?php
 	include 'connection.php';
     
-?>
+?> --->
 
 </head>
 <body>
